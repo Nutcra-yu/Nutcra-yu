@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nutcra-yu
+- 👋 Hi, I’m yu
 - 🌱 I’m currently learning in WuHAn
 - 📫 Here is my blog https://nutcra-yu.github.io/
 <!---
